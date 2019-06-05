@@ -2,7 +2,8 @@
 
 made by:
 
-David Santiago Gantiva Castro \n
+David Santiago Gantiva Castro
+
 Diego Duarte Camacho
 
 This program is a bad code smell analyzer for java codes and writen in java with help of antlr-4.7.1-complete and have a user interface that use the help of jsoup-1.12.1 
