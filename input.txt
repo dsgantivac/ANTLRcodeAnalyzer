@@ -1,0 +1,81 @@
+public class Dog {
+   String breed;
+   int age;
+   String color;
+
+  void hungry(int a,int b,int c) {
+   	if(vlue !=null) {
+			
+	}
+	if(vlue !=null) {
+			
+	}
+	if(vlue !=null) {
+			
+	}
+	if(vlue !=null) {
+			
+	}
+	if(vlue !=null) {
+			
+	}
+	if(vlue !=null) {
+			
+	}
+	if(vlue !=null) {
+			
+	}
+   		
+   }	
+
+
+
+   void barkingmoner() {
+   System.out.println("1");
+   System.out.println("2");
+   System.out.println("3");
+   System.out.println("4");
+   System.out.println("5");
+   System.out.println("6");
+   System.out.println("7");
+   System.out.println("8");
+   System.out.println("9");
+   System.out.println("10");
+   }
+
+   void hungry1(int a,int b,int c, int d,int m, int r) {
+   System.out.println("Hola");
+   }
+   void hungry2(int a,int b,int c, int d,int m, int r) {
+   System.out.println("Hola");
+   }
+
+   void sl() {
+   System.out.println("1");
+   System.out.println("2");
+   System.out.println("3");
+   System.out.println("4");
+   System.out.println("5");
+   System.out.println("6");
+   System.out.println("7");
+   System.out.println("8");
+   System.out.println("9");
+   System.out.println("10");
+   
+   }
+ void s2() {
+   hungry1();
+   hungry2();
+   hungry2();
+   age=10;
+   breed="age"+age;   
+   }
+ 
+}
+
+public class Dog {
+   String breed;
+   int age;
+   String color;
+}
+
